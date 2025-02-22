@@ -2,7 +2,7 @@
 title: "Silent Takeover: How We Hacked Authentication Flows to Compromise 2000+ Healthcare Tenants with Zero Clicks"
 date: 2025-02-20 
 categories: [Bug Bounty, Cybersecurity]
-tags: [bugbounty-writeup, Infosec, Authentication, VAPT]
+tags: [bugbounty-writeup, infosec, authentication, vapt]
 ---
 
 ## Introduction
